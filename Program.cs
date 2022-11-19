@@ -2,12 +2,12 @@
 int choose = int.Parse(Console.ReadLine()!);
 switch (choose)
 {
-case 65 : Q65(); break;
-case 67 : Q67(); break;
-case 69 : Q69(); break;
-case 64 : Q64(); break;
-case 66 : Q66(); break;
-case 68 : Q68(); break;
+    case 65: Q65(); break;
+    case 67: Q67(); break;
+    case 69: Q69(); break;
+    case 64: Q64(); break;
+    case 66: Q66(); break;
+    case 68: Q68(); break;
 }
 
 
